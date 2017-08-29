@@ -1,7 +1,7 @@
 ---
-title: Welcome to Memory Work
+title: 'history != memory'
 layout: landing
-description: 'History does *not* equal memory.'
+description: 'Welcome to Memory Work'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
