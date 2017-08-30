@@ -2,7 +2,7 @@
 title: 'history != memory'
 layout: landing
 description: 'Welcome to Memory Work'
-image: assets/images/pic07.jpg
+image: assets/images/STL_001.jpg
 nav-menu: true
 ---
 
